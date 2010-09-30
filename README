@@ -5,6 +5,8 @@ FkGenerator
 Usage 
 =====
 
+script/generate fk_generator TrainingSessionAssoc app/models/training_session_assoc.rb 
+
 
 Generates:
 ==========
